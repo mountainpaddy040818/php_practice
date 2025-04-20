@@ -1,3 +1,5 @@
 <?php
-echo "test php"."\n";
+for ($i = 0; $i < 10; $i++) {
+    echo "test php"."\n";
+}
 ?>
